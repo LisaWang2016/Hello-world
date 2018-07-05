@@ -1,4 +1,4 @@
-# Hello-world v0.1
+# Hello-world v0.1.1
 Brand new repository
 
 ----------
@@ -172,4 +172,7 @@ If you want to learn more about the power of Pull Requests, we recommend reading
 > Tip: Check out our other Guides and YouTube Channel for more GitHub how-tos.
 
 Last updated April 7, 2016, see: https://guides.github.com/activities/hello-world/.
+
+updated July 5, 2018, see: https://github.com/LisaWang2016/Hello-world/tree/lw0705
+
 
